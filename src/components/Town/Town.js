@@ -1,7 +1,7 @@
 
 
-import Aboutme from '/Users/fabianreginold/Desktop/movein/simon/src/components/Aboutme/Aboutme';
-import Fetchapi from "/Users/fabianreginold/Desktop/movein/simon/src/components/Fetchapi/Fetchapi";
+import React, { Component } from 'react'
+import Fetchapi from '../Fetchapi/Fetchapi'
 function Town()
 {
     var p=2;
